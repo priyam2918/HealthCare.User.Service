@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{869C8C94-0D0A-77C8-C0A7-310C1184C7DE}|UserService.API.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869C8C94-0D0A-77C8-C0A7-310C1184C7DE}|UserService.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BEB2A1-3DCC-EAEC-7E40-D3C6BB07B9A4}|..\\UserService.Infrastructure\\UserService.Infrastructure.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869C8C94-0D0A-77C8-C0A7-310C1184C7DE}|UserService.API.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{869C8C94-0D0A-77C8-C0A7-310C1184C7DE}|UserService.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BEB2A1-3DCC-EAEC-7E40-D3C6BB07B9A4}|..\\UserService.Infrastructure\\UserService.Infrastructure.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6093AD3-E320-6C27-C538-218A4975DDA2}|..\\UserService.Application\\UserService.Application.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.application\\commands\\loginuser\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BEB2A1-3DCC-EAEC-7E40-D3C6BB07B9A4}|..\\UserService.Infrastructure\\UserService.Infrastructure.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BEB2A1-3DCC-EAEC-7E40-D3C6BB07B9A4}|..\\UserService.Infrastructure\\UserService.Infrastructure.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.infrastructure\\persistence\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869C8C94-0D0A-77C8-C0A7-310C1184C7DE}|UserService.API.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.api\\userservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{869C8C94-0D0A-77C8-C0A7-310C1184C7DE}|UserService.API.csproj|solutionrelative:userservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869C8C94-0D0A-77C8-C0A7-310C1184C7DE}|UserService.API.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869C8C94-0D0A-77C8-C0A7-310C1184C7DE}|UserService.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6093AD3-E320-6C27-C538-218A4975DDA2}|..\\UserService.Application\\UserService.Application.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.application\\userservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F498C63-D198-5E2C-A5FE-DEDCB7884C02}|..\\..\\..\\BuildingBlocks\\Common\\Common.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\buildingblocks\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869C8C94-0D0A-77C8-C0A7-310C1184C7DE}|UserService.API.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{869C8C94-0D0A-77C8-C0A7-310C1184C7DE}|UserService.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ADF961-9BE9-5E8E-02DA-951732B053E8}|..\\UserService.Domain\\UserService.Domain.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.domain\\userservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BEB2A1-3DCC-EAEC-7E40-D3C6BB07B9A4}|..\\UserService.Infrastructure\\UserService.Infrastructure.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.infrastructure\\userservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869C8C94-0D0A-77C8-C0A7-310C1184C7DE}|UserService.API.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.api\\.github\\upgrades\\scenarios\\dotnet-version-upgrade\\scenario-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{869C8C94-0D0A-77C8-C0A7-310C1184C7DE}|UserService.API.csproj|solutionrelative:.github\\upgrades\\scenarios\\dotnet-version-upgrade\\scenario-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F498C63-D198-5E2C-A5FE-DEDCB7884C02}|..\\..\\..\\BuildingBlocks\\Common\\Common.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\buildingblocks\\common\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F498C63-D198-5E2C-A5FE-DEDCB7884C02}|..\\..\\..\\BuildingBlocks\\Common\\Common.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\buildingblocks\\common\\services\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F498C63-D198-5E2C-A5FE-DEDCB7884C02}|..\\..\\..\\BuildingBlocks\\Common\\Common.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\buildingblocks\\common\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ADF961-9BE9-5E8E-02DA-951732B053E8}|..\\UserService.Domain\\UserService.Domain.csproj|c:\\users\\dell\\onedrive\\desktop\\health-care\\projects\\healthcareplatform\\src\\services\\userservice\\userservice.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "..\\UserService.Infrastructure\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "..\\UserService.Infrastructure\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T17:23:36.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\UserService.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\UserService.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:12:05.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Infrastructure\\Persistence\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "..\\UserService.Infrastructure\\Persistence\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Infrastructure\\Persistence\\UserDbContext.cs",
+              "RelativeToolTip": "..\\UserService.Infrastructure\\Persistence\\UserDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T09:15:42.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T08:59:06.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-17T09:12:58.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Application\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "..\\UserService.Application\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Application\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "RelativeToolTip": "..\\UserService.Application\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T17:23:24.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.Application",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Application\\UserService.Application.csproj",
+              "RelativeDocumentMoniker": "..\\UserService.Application\\UserService.Application.csproj",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Application\\UserService.Application.csproj",
+              "RelativeToolTip": "..\\UserService.Application\\UserService.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-17T12:03:46.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.API",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.API\\UserService.API.csproj",
+              "RelativeDocumentMoniker": "UserService.API.csproj",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.API\\UserService.API.csproj",
+              "RelativeToolTip": "UserService.API.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAawAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-17T10:04:41.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Common",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\BuildingBlocks\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\BuildingBlocks\\Common\\Common.csproj",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\BuildingBlocks\\Common\\Common.csproj",
+              "RelativeToolTip": "..\\..\\..\\BuildingBlocks\\Common\\Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-17T10:08:52.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\UserService.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "..\\UserService.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T09:15:38.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T09:12:57.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-17T12:09:38.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Infrastructure\\UserService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\UserService.Infrastructure\\UserService.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Infrastructure\\UserService.Infrastructure.csproj",
+              "RelativeToolTip": "..\\UserService.Infrastructure\\UserService.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-17T12:03:50.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.Domain",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Domain\\UserService.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\UserService.Domain\\UserService.Domain.csproj",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Domain\\UserService.Domain.csproj",
+              "RelativeToolTip": "..\\UserService.Domain\\UserService.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-17T12:03:53.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "scenario-instructions.md",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.API\\.github\\upgrades\\scenarios\\dotnet-version-upgrade\\scenario-instructions.md",
+              "RelativeDocumentMoniker": ".github\\upgrades\\scenarios\\dotnet-version-upgrade\\scenario-instructions.md",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.API\\.github\\upgrades\\scenarios\\dotnet-version-upgrade\\scenario-instructions.md",
+              "RelativeToolTip": ".github\\upgrades\\scenarios\\dotnet-version-upgrade\\scenario-instructions.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-17T10:02:29.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\BuildingBlocks\\Common\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BuildingBlocks\\Common\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\BuildingBlocks\\Common\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\BuildingBlocks\\Common\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T09:11:58.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\BuildingBlocks\\Common\\Services\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BuildingBlocks\\Common\\Services\\ICurrentUserService.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\BuildingBlocks\\Common\\Services\\ICurrentUserService.cs",
+              "RelativeToolTip": "..\\..\\..\\BuildingBlocks\\Common\\Services\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T09:08:41.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\BuildingBlocks\\Common\\Services\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BuildingBlocks\\Common\\Services\\CurrentUserService.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\BuildingBlocks\\Common\\Services\\CurrentUserService.cs",
+              "RelativeToolTip": "..\\..\\..\\BuildingBlocks\\Common\\Services\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T09:08:37.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\UserService.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Desktop\\Health-care\\Projects\\HealthcarePlatform\\src\\Services\\UserService\\UserService.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\UserService.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T09:06:06.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

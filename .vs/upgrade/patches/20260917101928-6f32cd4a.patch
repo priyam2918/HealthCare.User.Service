@@ -1,0 +1,13 @@
+﻿--- a/Program.cs
++++ b/Program.cs
+@@ -59,8 +59,8 @@
+ builder.Services.AddAuthorization();
+ 
+ // ---------- Health Checks ----------
+-builder.Services.AddHealthChecks()
+-    .AddSqlServer<UserDbContext>(builder.Configuration.GetConnectionString("DefaultConnection")!);
++// Register health checks. SQL Server-specific health check removed to avoid depending on a missing package.
++builder.Services.AddHealthChecks();
+ 
+ // ---------- Swagger ----------
+ builder.Services.AddEndpointsApiExplorer();

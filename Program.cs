@@ -62,6 +62,18 @@ builder.Services.AddAuthorization();
 // Register health checks. SQL Server-specific health check removed to avoid depending on a missing package.
 builder.Services.AddHealthChecks();
 
+//---------------Add CORS policy
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFrontend", policy =>
+    {
+        policy
+            .WithOrigins("http://localhost:5173")
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
+});
+
 // ---------- Swagger ----------
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>

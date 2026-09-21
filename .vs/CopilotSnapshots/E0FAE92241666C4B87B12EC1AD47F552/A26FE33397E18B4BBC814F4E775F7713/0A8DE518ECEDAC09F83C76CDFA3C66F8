@@ -1,0 +1,15 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=DESKTOP-VIURQD4\\LOCALDB#6411E986;Database=UserServiceDb;Integrated Security=True;TrustServerCertificate=True;"
+  },
+  "Jwt": {
+    "Key": "REPLACE_WITH_A_LONG_RANDOM_SECRET_STORED_IN_KEY_VAULT",
+    "Issuer": "HealthcarePlatform.UserService",
+    "Audience": "HealthcarePlatform.Clients",
+    "ExpiryHours": "8"
+  },
+  "Logging": {
+    "LogLevel": { "Default": "Information", "Microsoft.AspNetCore": "Warning" }
+  },
+  "AllowedHosts": "*"
+}

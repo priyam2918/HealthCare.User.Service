@@ -1,0 +1,12 @@
+﻿diff --git a/UserService.API.slnx b/UserService.API.slnx
+--- /dev/null
++++ b/UserService.API.slnx
+@@ -0,0 +1,8 @@
++<Solution>
++  <Project Path="../../../BuildingBlocks/Common/Common.csproj" />
++  <Project Path="../UserService.Application/UserService.Application.csproj" />
++  <Project Path="../UserService.Domain/UserService.Domain.csproj" />
++  <Project Path="../UserService.Infrastructure/UserService.Infrastructure.csproj" />
++  <Project Path="UserService.API.csproj" />
++</Solution>
++
